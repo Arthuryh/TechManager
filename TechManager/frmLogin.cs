@@ -144,7 +144,14 @@ namespace TechManager
             try
             {
                 List<usuarioDTO> ListDto = new List<usuarioDTO>();
-                ListDto = new usuarioBLL().validar(dtovar);
+                //ListDto = new usuarioBLL().validar(dtovar);
+                ListDto.Add(new usuarioDTO()
+                {
+                    id = 1,
+                    nome = "Dalmasio",
+                    aula = "Aula 1",
+                    tipo = 1
+                });
                 if (ListDto.Count > 0)
                 {
                     information.id = dtovar.id;

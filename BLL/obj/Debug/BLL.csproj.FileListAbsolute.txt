@@ -86,3 +86,16 @@ C:\Users\Maza\Documents\GitHub\TechManager\TechManager\BLL\obj\Debug\BLL.pdb
 C:\Users\Maza\Documents\GitHub\TechManager\TechManager\BLL\bin\Debug\MySql.Data.dll
 C:\Users\Maza\Documents\GitHub\TechManager\TechManager\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
 C:\Users\Maza\Documents\GitHub\TechManager\TechManager\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\repos\techManager\BLL\bin\Debug\BLL.dll
+E:\repos\techManager\BLL\bin\Debug\BLL.pdb
+E:\repos\techManager\BLL\bin\Debug\DAL.dll
+E:\repos\techManager\BLL\bin\Debug\DTO.dll
+E:\repos\techManager\BLL\bin\Debug\DAL.pdb
+E:\repos\techManager\BLL\bin\Debug\DTO.pdb
+E:\repos\techManager\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\repos\techManager\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\repos\techManager\BLL\obj\Debug\BLL.csproj.Up2Date
+E:\repos\techManager\BLL\obj\Debug\BLL.dll
+E:\repos\techManager\BLL\obj\Debug\BLL.pdb
+E:\repos\techManager\BLL\bin\Debug\MySql.Data.dll
+E:\repos\techManager\BLL\bin\Debug\MySql.Data.xml

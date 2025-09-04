@@ -65,3 +65,14 @@ C:\Users\Maza\Documents\GitHub\TechManager\TechManager\DAL\bin\Debug\MySql.Data.
 C:\Users\Maza\Documents\GitHub\TechManager\TechManager\DAL\bin\Debug\DTO.pdb
 C:\Users\Maza\Documents\GitHub\TechManager\TechManager\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
 C:\Users\Maza\Documents\GitHub\TechManager\TechManager\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\repos\techManager\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\repos\techManager\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\repos\techManager\DAL\obj\Debug\DAL.dll
+E:\repos\techManager\DAL\obj\Debug\DAL.pdb
+E:\repos\techManager\DAL\bin\Debug\DAL.dll
+E:\repos\techManager\DAL\bin\Debug\DAL.pdb
+E:\repos\techManager\DAL\bin\Debug\DTO.dll
+E:\repos\techManager\DAL\bin\Debug\MySql.Data.dll
+E:\repos\techManager\DAL\bin\Debug\DTO.pdb
+E:\repos\techManager\DAL\bin\Debug\MySql.Data.xml
+E:\repos\techManager\DAL\obj\Debug\DAL.csproj.Up2Date

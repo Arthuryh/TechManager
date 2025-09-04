@@ -57,3 +57,9 @@ C:\Users\Maza\Documents\GitHub\TechManager\TechManager\DTO\obj\Debug\DTO.dll
 C:\Users\Maza\Documents\GitHub\TechManager\TechManager\DTO\obj\Debug\DTO.pdb
 D:\Github\TechManager\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
 C:\Users\Maza\Documents\GitHub\TechManager\TechManager\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+E:\repos\techManager\DTO\bin\Debug\DTO.dll
+E:\repos\techManager\DTO\bin\Debug\DTO.pdb
+E:\repos\techManager\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\repos\techManager\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\repos\techManager\DTO\obj\Debug\DTO.dll
+E:\repos\techManager\DTO\obj\Debug\DTO.pdb
